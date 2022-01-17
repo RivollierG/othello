@@ -1,0 +1,5 @@
+# on export la liste de package
+#   conda env export > environment.yml
+
+# on crée un environnement à partir d'un fichier .yml
+#   conda env create -f environment.yml
